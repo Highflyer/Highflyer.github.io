@@ -1372,3 +1372,9 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
+.sidebar-profile-picture {
+    border: 5px solid rgba(250, 250, 250, 0.3);
+}
+#about-card-picture {
+    border: 5px solid rgba(230, 230, 230, 0.5);
+}
