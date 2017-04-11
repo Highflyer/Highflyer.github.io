@@ -5339,3 +5339,6 @@ figure.highlight,
 
 }
 */
+#sidebar .sidebar-profile .sidebar-profile-picture {
+  border: 5px solid rgba(255, 255, 255, 0.3) !important;
+}
